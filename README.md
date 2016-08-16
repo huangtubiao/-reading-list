@@ -8,7 +8,8 @@
 
 ## 技术
 
-1. Redux中文文档，2016年7月30日
+1. [Redux中文文档](https://github.com/camsong/redux-in-chinese)，2016年7月30日
 2. jQuery源码阅读，2016年8月04日
 3. CSS揭秘，2016年8月07日
 4. HTTP权威指南，2016年8月16日
+5. [http2讲解](https://ye11ow.gitbooks.io/http2-explained/content/index.html)，2016年8月08日
