@@ -14,3 +14,4 @@
 4. HTTP权威指南，2016年8月16日
 5. [http2讲解](https://ye11ow.gitbooks.io/http2-explained/content/index.html)，2016年8月08日
 6. 高性能网站建设指南， 2016年9月04日
+7. JavaScript设计模式与开发实践，2016年9月13日 :+1:
